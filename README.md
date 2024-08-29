@@ -1,6 +1,6 @@
 # Syria-Tel-Project
-
-# Syria-Tel-Project
+Brandon Kanyi Mwangi
+Projocet is the * syriatel.ipynb 
 # BUSINESS UNDERSTANDING
 Build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. This is a binary classification problem.
 
@@ -8,8 +8,8 @@ Most naturally, your audience here would be the telecom business itself, interes
 [Slides](https://www.canva.com/design/DAGPIqa_kgA/v3-SK419F-RbhodgpEbUDQ/edit?utm_content=DAGPIqa_kgA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ![alt img](Capture1.png)
 ![alt img](Capture2.png)
-![alt text](Capture3.png)
-![alt text](Capture4.png)
+![alt img](Capture3.png)
+![alt img](Capture4.png)
 ![alt text](Capture5.png)
 ![alt img](Capture6.png)
 ![alt img](Capture7.png)
