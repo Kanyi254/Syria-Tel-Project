@@ -13,6 +13,7 @@ Most naturally, your audience here would be the telecom business itself, interes
 ![alt text](Capture5.png)
 ![alt img](Capture6.png)
 ![alt img](Capture7.png)
+<img src="Capture2.png">
 # CONCLUSIONS
 Model Performance: Through metrics such as accuracy, precision, recall, F1-score, and AUC-ROC curves, we evaluated and compared different models. The tuned Decision Tree model achieved a high accuracy (90.6%) and a balanced performance in predicting churn, making it an effective tool for the business.
 
